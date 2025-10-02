@@ -9,12 +9,7 @@ This project serves as a practical exercise to test your DevOps skills. It invol
 1. **Fork the Repository**
    - Begin by forking this repository to your own GitHub account.
      
-2. **Ansible Automation (Same Local Machine)**
-   - Use Ansible to automate app deployment and updates:
-     - Create ansible/ folder with `host` file:
-       `[local]`
-       `127.0.0.1 ansible_connection=local`
-     - install and verify basics tools for this repo e.g. `git` and `docker`
+2.    - install and verify basics tools for this repo e.g. `git` and `docker`
 
 3. **Clone and create a Separate Branch**
    - Clone and create a new branch named `devops-branch` in your forked repository. This branch will be used for all your DevOps-related tasks.
